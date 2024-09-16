@@ -13,7 +13,7 @@ OAUTH2_AUTHORIZE = (
 OAUTH2_TOKEN = (
     "https://auth.weheat.dev/auth/realms/Weheat/protocol/openid-connect/token/"
 )
-API_URL = "https://auth.weheat.dev/"
+API_URL = "https://auth.weheat.dev"
 OAUTH2_SCOPES = ["openid", "offline_access"]
 
 
